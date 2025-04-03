@@ -1,0 +1,6 @@
+macos-titlebar-proxy-icon = hidden
+theme = Kanagawa Wave
+font-family = "FiraCode Nerd Font Mono"
+font-size = 15
+font-feature = "-calt, -liga, -dlig"
+adjust-cell-height = 25%
