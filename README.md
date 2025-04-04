@@ -1,3 +1,3 @@
 # config.ghostty
 
-My personal Ghostty config
+My personal Ghostty config.
